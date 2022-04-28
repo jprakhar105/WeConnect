@@ -1,0 +1,64 @@
+.intro {
+  background-color: #B9F8D3;
+  padding: 5%;
+  margin-bottom: 2%;
+}
+
+#features {
+  padding: 2% 5%;
+  margin-bottom: 2%;
+}
+
+h1 {
+  line-height: 2rem;
+  margin: 2% 0;
+}
+
+.card {
+  margin: 3% 0;
+}
+
+.carousel-item img {
+  width: auto;
+  height: 400px;
+  max-height: 400px;
+  margin: auto;
+  display: block;
+}
+
+#pics {
+  background-color: #B9F8D3;
+  padding: 2% 5%;
+  margin-bottom: 2%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+#cta {
+  padding: 2% 5%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+#footer {
+  background-color: #B9F8D3;
+  padding: 5%;
+  text-align: center;
+}
+
+.card-img-top {
+  padding: 5%;
+  margin-top: auto;
+  height: 20vh;
+  object-fit: contain;
+}
+
+.navbar-brand {
+  padding: 5%;
+}
